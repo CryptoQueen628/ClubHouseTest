@@ -6,3 +6,4 @@
         },
         "beta": {
             "gitUrl": "git@github.com:MyCryptoHQ/MyCrypto-Beta.git",
+            "test"
